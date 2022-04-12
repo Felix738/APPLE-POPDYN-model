@@ -1,2 +1,0 @@
-# firstrepositary
-just an example
