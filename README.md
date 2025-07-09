@@ -38,6 +38,16 @@ In addition to the raw model outputs, the dataset includes processed data used t
 
 ## 4. Licensing
 
+This dataset is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to use, distribute, and adapt the material, provided proper attribution is given.
+
 ## 5. Citation
 
+**Häffner, F., Meyer, K., Pincebourde, S., Wiegand, K.** (2025). *Dataset: Raw Data, Processed Data, Processing Scripts, and Results of the APPLE-POPDYN Model*. Zenodo. https://doi.org/XXXXXX
+
 ## 6. Contact
+
+For questions or suggestions, please contact:
+
+[Felix Sauke]
+[Helmholtz-Centre for Environmental Resarch]
+[felix.sauke@ufz.de]
