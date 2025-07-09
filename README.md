@@ -16,6 +16,11 @@ In addition to the raw model outputs, the dataset includes processed data used t
 
 ## 3. File Descriptions
 
+- `model src/APPLE POPDYN model 2D submit 6.2.0`: single Netlogo file which contains the complete source code of the APPLE-POPDYN model
+- `data/raw/results500_no_damage_submit.csv`: CSV file containing the simulated results of 500 model runs under the control treatment scenario without damage
+- `data/raw/results500_damage_submit.csv`: CSV file containing the simulated results of 500 model runs under the scenario with "tolerant" leaf miners
+- `data/raw/results500_damage_learning_submit.csv`: CSV file containing the simulated results of 500 model runs under the scenario with "pciky" leaf miners
+
 ## 4. Licensing
 
 ## 5. Citation
