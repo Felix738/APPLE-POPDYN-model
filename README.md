@@ -13,7 +13,6 @@ In addition to the raw model outputs, the dataset includes processed data used t
 - `data/processed/`: Simulated and observed data used to generate the figures in the result section.
 - `scripts/`: R scripts used to process raw data and generate the analytical figures.
 - `results/`: Outcome of model calibration and validation, and results from scenario analyses focused on leaf miner behavior.
-- `references/`
 
 ## 3. File Descriptions
 
@@ -51,3 +50,8 @@ For questions or suggestions, please contact:
 [Felix Sauke]
 [Helmholtz-Centre for Environmental Resarch]
 [felix.sauke@ufz.de]
+
+## 7. References
+
+**Fujii, J. A., & Kennedy, R. A.** (1985). Seasonal Changes in the Photosynthetic Rate in Apple Trees: A Comparison between Fruiting and Nonfruiting Trees. Plant Physiology, 78(3), 519–524. https://doi.org/10.1104/pp.78.3.519
+**Gagne, R. S., & Barrett, B. A.** (1994). Seasonal Occurrence and Density ofPhyllonorycterspp. (Lepidoptera: Gracillariidae) and Major Parasitoids in Missouri Apple Orchards. Environmental Entomology, 23(1), 198–207. https://doi.org/10.1093/ee/23.1.198
