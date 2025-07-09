@@ -13,6 +13,7 @@ In addition to the raw model outputs, the dataset includes processed data used t
 - `data/processed/`: Simulated and observed data used to generate the figures in the result section.
 - `scripts/`: R scripts used to process raw data and generate the analytical figures.
 - `results/`: Outcome of model calibration and validation, and results from scenario analyses focused on leaf miner behavior.
+- `references/`
 
 ## 3. File Descriptions
 
@@ -20,6 +21,20 @@ In addition to the raw model outputs, the dataset includes processed data used t
 - `data/raw/results500_no_damage_submit.csv`: CSV file containing the simulated results of 500 model runs under the control treatment scenario without damage
 - `data/raw/results500_damage_submit.csv`: CSV file containing the simulated results of 500 model runs under the scenario with "tolerant" leaf miners
 - `data/raw/results500_damage_learning_submit.csv`: CSV file containing the simulated results of 500 model runs under the scenario with "pciky" leaf miners
+- `data/raw/results500_damage_learning_submit.csv`: CSV file containing the simulated results of 500 model runs under the scenario with "pciky" leaf miners
+- `data/processed/Observed net assimilation.txt`: Text file containing the observed net assimilation from Fuji and Kennedy (1985), see Figure 4 and 6 in results
+- `data/processed/Simulated net assimilation.txt`: Text file containing the simulated net assimilation of one model run without damage, see Figure 4 and 6 in results
+- `data/processed/leaf number.txt`: Text file containing the simulated leaf number of one model run (see Figure 5 in results)
+- `data/processed/Missouri leaf miner demographics grand pas 1991.txt`: Text file containing the observed leaf miner counts from Gagne and Barrett (1994) from the orchard Grand Pas in 1991, see Figures 7 and 8
+- `data/processed/Missouri leaf miner demographics grand pas 1992.txt`: Text file containing the observed leaf miner counts from Gagne and Barrett (1994) from the orchard Grand Pas in 1992, see Figures 7 and 8
+- `data/processed/Missouri leaf miner demographics waverly 1991.txt`: Text file containing the observed leaf miner counts from Gagne and Barrett (1994) from the orchard Waverly in 1991, see Figures 7 and 8
+- `data/processed/Missouri leaf miner demographics waverly 1992.txt`: Text file containing the observed leaf miner counts from Gagne and Barrett (1994) from the orchard Waverly in 1992, see Figures 7 and 8
+- `data/processed/Simulated leaf miner demographics year 15 model run 1.txt`: Text file containing the simulated leaf miner counts from model run 1 in year 15 under the scenario of "tolerant" leaf miners, see Figures 7 and 8
+- `data/processed/Simulated leaf miner demographics year 15 model run 1 learning.txt`: Text file containing the simulated leaf miner counts from model run 1 in year 15 under the scenario of "picky" leaf miners, see Figures 7 and 8
+- `data/processed/Simulated leaf miner demographics year 30 model run 1.txt`: Text file containing the simulated leaf miner counts from model run 1 in year 30 under the scenario of "tolerant" leaf miners, see Figures 7 and 8
+- `data/processed/Simulated leaf miner demographics year 30 model run 1 learning.txt`: Text file containing the simulated leaf miner counts from model run 1 in year 30 under the scenario of "picky" leaf miners, see Figures 7 and 8
+- `data/processed/leaf number.txt`: Text file containing the simulated leaf number of one model run (see Figure 5 in results)
+- `data/processed/Missouri orchards leaf data.txt`: Text file containing the number of observed and simulated leaf mines for model validation (see Figure 9 in results)
 
 ## 4. Licensing
 
