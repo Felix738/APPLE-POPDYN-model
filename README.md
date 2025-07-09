@@ -34,6 +34,9 @@ In addition to the raw model outputs, the dataset includes processed data used t
 - `data/processed/Simulated leaf miner demographics year 30 model run 1 learning.txt`: Text file containing the simulated leaf miner counts from model run 1 in year 30 under the scenario of "picky" leaf miners, see Figures 7 and 8
 - `data/processed/leaf number.txt`: Text file containing the simulated leaf number of one model run (see Figure 5 in results)
 - `data/processed/Missouri orchards leaf data.txt`: Text file containing the number of observed and simulated leaf mines for model validation (see Figure 9 in results)
+- `scripts/data analysis submit1.R`: R script for data processing, visualization and statistical analysis
+- `scripts/Graphical comparison.R`: additional R script for visualization only
+- `results/Separate result section.docx`: Word document containing the results of the APPLE-POPDYN model
 
 ## 4. Licensing
 
