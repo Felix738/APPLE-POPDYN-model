@@ -52,7 +52,7 @@ This dataset is licensed under the [Creative Commons Attribution 4.0 Internation
 
 ## 5. Citation
 
-**Häffner, F., Meyer, K., Pincebourde, S., Wiegand, K.** (2025). *Dataset: Raw Data, Processed Data, Processing Scripts, and Results of the APPLE-POPDYN Model*. Zenodo. https://doi.org/XXXXXX
+**Häffner, F., Meyer, K., Pincebourde, S., Wiegand, K.** (2025). *Dataset: Raw Data, Processed Data, Processing Scripts, and Results of the APPLE-POPDYN Model*.
 
 ## 6. Contact
 
