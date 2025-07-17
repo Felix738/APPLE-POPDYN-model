@@ -9,7 +9,7 @@ In addition to the raw model outputs, the dataset includes processed data used t
 ## 2. Folder Structure
 
 - `model src/`: Netlogo source code of the APPLE-POPDYN model
-- `data/raw/`: Original model output from 500 simulation runs across different model scenarios.
+- `data/raw/`: Original model output from 500 simulation runs across different model scenarios. The raw data files are archived on Zenodo due to their size. Below is a description of each file in the data/raw/ directory.
 - `data/processed/`: Simulated and observed data used to generate the figures in the result section.
 - `scripts/`: R scripts used to process raw data and generate the analytical figures.
 - `results/`: Outcome of model calibration and validation, and results from scenario analyses focused on leaf miner behavior.
@@ -19,10 +19,12 @@ In addition to the raw model outputs, the dataset includes processed data used t
 ## 3.1 Raw Data
 
 - `model src/APPLE POPDYN model 2D submit 6.2.0`: single Netlogo file which contains the complete source code of the APPLE-POPDYN model
-- `data/raw/results500_no_damage_submit.csv`: CSV file containing the simulated results of 500 model runs under the control treatment scenario without damage
-- `data/raw/results500_damage_submit.csv`: CSV file containing the simulated results of 500 model runs under the scenario with "tolerant" leaf miners
-- `data/raw/results500_damage_learning_submit.csv`: CSV file containing the simulated results of 500 model runs under the scenario with "pciky" leaf miners
-- `data/raw/results500_damage_learning_submit.csv`: CSV file containing the simulated results of 500 model runs under the scenario with "pciky" leaf miners
+- `data/raw/results500_no_damage_submit.csv`: CSV file containing the simulated results of 500 model runs under the control treatment scenario without damage. To access these files, visit the Zenodo archive:
+📦 [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+- `data/raw/results500_damage_submit.csv`: CSV file containing the simulated results of 500 model runs under the scenario with "tolerant" leaf miners. To access these files, visit the Zenodo archive:
+📦 [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+- `data/raw/results500_damage_learning_submit.csv`: CSV file containing the simulated results of 500 model runs under the scenario with "pciky" leaf miners. To access these files, visit the Zenodo archive:
+📦 [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
 
 ## 3.2 Processed Data
 
