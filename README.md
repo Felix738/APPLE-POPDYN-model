@@ -46,6 +46,7 @@ In addition to the raw model outputs, the dataset includes processed data used t
 
 - `scripts/data analysis submit1.R`: R script for data processing, visualization and statistical analysis
 - `scripts/Graphical comparison.R`: additional R script for visualization only
+- `scripts/nlrx operation submit.R`: R script for operation of the NetLogo source code of the APPLE-POPDYN model via the R package nlrx
 - `results/Separate result section.docx`: Word document containing the results of the APPLE-POPDYN model
 
 ## 4. Licensing
