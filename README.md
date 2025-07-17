@@ -20,7 +20,7 @@ In addition to the raw model outputs, the dataset includes processed data used t
 
 - `model src/APPLE POPDYN model 2D submit 6.2.0`: single Netlogo file which contains the complete source code of the APPLE-POPDYN model
 - `data/raw/results500_no_damage_submit.csv`: CSV file containing the simulated results of 500 model runs under the control treatment scenario without damage. To access these files, visit the Zenodo archive:
-📦 [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+📦 [https://doi.org/10.5281/zenodo.16027116](https://doi.org/10.5281/zenodo.16027116)
 - `data/raw/results500_damage_submit.csv`: CSV file containing the simulated results of 500 model runs under the scenario with "tolerant" leaf miners. To access these files, visit the Zenodo archive:
 📦 [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
 - `data/raw/results500_damage_learning_submit.csv`: CSV file containing the simulated results of 500 model runs under the scenario with "pciky" leaf miners. To access these files, visit the Zenodo archive:
