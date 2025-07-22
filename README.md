@@ -2,7 +2,7 @@
 
 ## 1. Description
 
-This dataset contains the model source code and original output from 500 model runs of the APPLE-POPDYN model, a dynamic simulation model designed to explore plant physiological processes, plant growth, leaf miner population dynamics, and their interactions with leaf cluster and insect attributes.
+This dataset contains the model source code and original output from 500 model runs of the APPLE-POPDYN model, a dynamic simulation model designed to explore leaf miner herbivory in a system of mutual influences with plant physiological processes, plant growth, and leaf miner phenology.
 
 In addition to the raw model outputs, the dataset includes processed data used to generate the figures presented in the results section of the associated publication. The dataset is intended to promote transparency and reproducibility of the simulation and analysis process.
 
