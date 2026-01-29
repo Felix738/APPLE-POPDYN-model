@@ -1,0 +1,22 @@
+plot(APPLE_POPDYN_net_assimilation_weather_data$y.1[2110:2179] * 50, col = "white", ylim = c(0,250))
+lines(APPLE_POPDYN_net_assimilation_weather_data$y.1[2110:2179] * 50, col = "forestgreen")
+points(seasonal_net_assimilation_rates_1937$V2 ~ seasonal_net_assimilation_rates_1937$V1)
+
+> plot(seasonal_net_assimilation_rates_1937$V2 ~ seasonal_net_assimilation_rates_1937$V1,
++      col = "black",
++      ylim = c(0, 220), xlim = c(0,70),
++      ylab = "Observed net assimilation (grams carbon dioxide)",
++      xlab = "One growing season April - November [half-weekly timesteps]", main = "Comparison of simulated net assimilation rates with field data",
++      axes = TRUE)
+> 
+> # Add the second dataset (points, right y-axis)
+> par(new = TRUE)  # <- allows overlaying a new plot
+> 
+> plot((APPLE_POPDYN_net_assimilation_weather_data_start_growth_20$y.1[2110:2179] * 2) ~ seq(1,70,1), type = "l",
++      axes = FALSE, xlab = "", ylab = "",
++      col = "forestgreen", pch = 16)
+> 
+> axis(side = 4)  # add right-hand y-axis
+> mtext("Simulated net assimilation (µmol m⁻² sec⁻¹)", side = 4, line = 3)
+> box()  # redraw box to make sure plot frame is intact
+> legend("topright", c("Observed", "Simulated"), col = c("black", "forestgreen"), pch = 19, cex = 0.7)
